@@ -25,6 +25,10 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
+## Clone the repository
+
+## Clone the repository
+
 Now clone this repo to your machine.
 
 IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
